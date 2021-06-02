@@ -1,0 +1,58 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 1200px;
+    background-color: 1b335d;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+#header {
+    min-height: 80px;
+    background-color: #ce3136;
+    margin-bottom: 20px;
+    margin-top: 1px;
+    border-radius: 15px;
+    color: lightgray;
+}
+
+#menu {
+    margin-left: 20px;
+    margin-top: 10px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+#navigation {
+    min-height: 200px;
+    width: 250px;
+    display: inline-block;
+    background-color: rgb(8, 126, 139);
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    border-radius: 15px;
+}
+
+#main_content {
+    min-height: 400px;
+    width: 900px;
+    display: inline-block;
+    background-color: #0f1922;
+    padding: 15px;
+    border-radius: 15px;
+    color: bisque;
+}
+
+#footer {
+    min-height: 45px;
+    background-color: #5c6672;
+    margin-bottom: 0.5px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
