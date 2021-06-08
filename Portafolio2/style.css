@@ -1,0 +1,122 @@
+/*CSS reset settings here*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 850px;
+    background-color: silver;
+}
+
+#header {
+    min-height: 50px;
+    background-color: green;
+    margin-bottom: 20px;
+}
+
+
+/**
+#navigation {
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 16px;
+} **/
+
+#main_content {
+    background-color: #1c0b10;
+    background-image: radial-gradient(#806c76, #1c0b10);
+    padding: 15px;
+}
+
+.subcontents {
+    width: 30%;
+    background-image: linear-gradient(to right, white, #cebfcc);
+    height: 590px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+/**
+
+.fondoTexto {
+    min-height: 50px;
+    background-color: green;
+}
+} **/
+
+#advertisement {
+    min-height: 250px;
+    width: 400px;
+    background-image: linear-gradient(to right, white, #cebfcc);
+    vertical-align: top;
+    display: inline-block;
+}
+
+#avatar {
+    width: 360px;
+    height: auto;
+    border: 5px solid #ddd;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+#fotoPortafolio {
+    min-height: 100px;
+    width: 240px;
+}
+
+#fotoFooter {
+    min-height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+
+#reading {
+    padding: 5px;
+}
+
+#secciones {
+    margin-top: 15px;
+}
+
+h3 {
+    background-image: linear-gradient(white, gray, white);
+    height: 25px;
+    padding: 5px;
+    color: white;
+}
+
+p {
+    padding: 5px;
+}
+
+.fotoseccion {
+    height: 155px;
+    width: auto;
+}
+
+.parrafoseccion {
+    height: 200px;
+}
+
+.tecnologias {
+    width: 45px;
+}
+
+#imagenes {
+    padding: 10px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.fotorsociales {
+    width: 20px;
+}
